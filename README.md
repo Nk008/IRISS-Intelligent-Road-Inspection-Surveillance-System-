@@ -1,11 +1,3 @@
-# IRISS Traffic Rules Violation Detection with Computer Vision
-
-
-![Overal use case](images/main.gif)
-
-
-![Dark theme Screen shot](images/main_black.png)
-
 # Intelligent Road Inspection & Surveillance System (IRISS)
 
 
