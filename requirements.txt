@@ -1,0 +1,4 @@
+imutils==0.5.3
+PyQt5==5.15.11
+QDarkStyle==3.0.2
+opencv-python==4.10.0.84
