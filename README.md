@@ -1,11 +1,5 @@
 # Intelligent Road Inspection & Surveillance System (IRISS)
 
-
-![Overal use case](images/main.gif)
-
-
-![Dark theme Screen shot](images/main_black.png)
-
 ## Overview
 
 IRISS (Intelligent Road Inspection & Surveillance System) is a state-of-the-art traffic management system designed to monitor and detect traffic signal violations and manage vehicle behavior. The system uses advanced computer vision and deep learning technologies to ensure accurate detection and reporting of traffic violations, with special considerations for emergency vehicles.
